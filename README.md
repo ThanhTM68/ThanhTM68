@@ -22,8 +22,6 @@
 - 🔭 I’m currently working on **automation tools, AI, Selenium bot**
 - 🌱 I’m learning **AI, Algorithms, Data Engineering**
 - 🛠️ Building tools with **Python, Java, JS**
-- 🎯 Goal: **Make everything that is repeatable auto-run**
-- 🎮 Hobby: **Anime | Piano | Coding challenges | LDPlayer optimizer**
 
 > "Code once, automate forever."
 
@@ -34,13 +32,13 @@
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,cs,go" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
   <br>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=selenium,react,nodejs,tailwind,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=selenium,react,nodejs,express,bootstrap" />
   <br>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,sqlite,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,figma,postman,vscode" />
 </p>
 
 
@@ -80,7 +78,7 @@
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
@@ -91,10 +89,9 @@
 
 ## 📫 Contact Me
 
-- Email: **your-email@gmail.com**
-- Facebook: **fb.com/yourprofile**
-- Discord: **yourtag#0001**
-- Telegram: **@yourusername**
+- Email: **thanhyche68@gmail.com**
+- Facebook: **~~**
+- Discord:  **~~**
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
