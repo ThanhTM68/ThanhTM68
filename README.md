@@ -1,84 +1,124 @@
-<div align="center">
-  <img src="https://picsum.photos/1200/400?grayscale&blur=2" width="100%" alt="Digital Horizon Banner" />
-  
-  <br />
-  <br />
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi, I'm TM 👋</h1>
 
-  <h1 style="letter-spacing: 4px; text-transform: uppercase;">The Digital Architect's Portal</h1>
-  
-  <p style="font-size: 1.2em; color: #a0a0a0;">
-    <em>Beyond the syntax lies the sensation. Logic interwoven with light.</em>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=34F6F1&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Self-taught+Developer;Building+automation+tools;Always+learning+new+things" />
+</p>
 
-  <br />
-
-  <a href="https://<your-domain>">
-    <img src="https://img.shields.io/badge/ENTER_THE_NEXUS-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000" height="45" alt="Enter The Experience" />
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=for-the-badge">
   </a>
-  
-  <br />
-  <br />
-</div>
-
----
-
-### 01 // THE CONSTRUCT
-
-This repository serves as the facade. The true digital signature resides within the **Nexus** linked above. 
-It is a "Page within a Page" — a curated, immersive environment designed to bridge the gap between static code and dynamic art.
-
-**Simulation Parameters:**
-
-*   **Atmosphere:** A persistent void illuminated by procedural **fireworks** and neon artifacts.
-*   **Temporal Event:** The year **2026** ascending from the horizon in kinetic typography.
-*   **Auditory:** Ambient synthwave soundscapes, controllable via the dedicated interface.
-*   **Interaction:** 
-    *   **Regenerate:** Reset the pyrotechnic display at will.
-    *   **Mini-Game:** Cursor-driven particle pursuit and target acquisition.
-    *   **Communication:** Direct encrypted channel via the avatar interface.
-
-<div align="center">
-  <a href="https://m.me/ThanhTM68>">
-    <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-Messenger-000?style=flat-square&logo=messenger&logoColor=white" alt="Messenger Link" />
+  <a href="https://github.com/your-username?tab=followers">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge">
   </a>
-</div>
+</p>
+
 
 ---
 
-### 02 // VISUAL PREVIEW
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://picsum.photos/800/450?grayscale" alt="Interface Preview" style="border-radius: 8px; box-shadow: 0 0 20px rgba(0,0,0,0.5);" />
-  <br />
-  <br />
-  <p><em>The interface defaults to high-contrast dark mode for optimal visual depth and battery efficiency.</em></p>
-</div>
+- 🔭 I’m currently working on **automation tools, AI, Selenium bot**
+- 🌱 I’m learning **AI, Algorithms, Data Engineering**
+- 🛠️ Building tools with **Python, Java, JS**
 
----
+> "Code once, automate forever."
 
-### 03 // TECHNICAL MANIFEST
-
-The architecture is built upon modern rendering principles, favoring performance and aesthetic precision.
-
-| Core Architecture | Visual Rendering | Interface Design |
-| :--- | :--- | :--- |
-| **React 18+** | **WebGL / Three.js** | **Glassmorphism** |
-| **TypeScript** | **Canvas API** | **CSS 3D Transforms** |
-| **Vite** | **Particle Systems** | **Tailwind CSS** |
 
 ---
 
-### 04 // ARCHIVES
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?thanhtm68=<your-thanhtm68>&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="GitHub Stats" />
-</div>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <br>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=selenium,react,nodejs,express,bootstrap" />
+  <br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,figma,postman,vscode" />
+</p>
 
-<br />
 
-<div align="center">
-  <blockquote>
-    "Code is the brush, the browser is the canvas, and imagination is the only limit."
-  </blockquote>
-  <p>— <em>The Architect</em></p>
-</div>
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-bg=true&no-frame=true&column=8">
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight">
+</p>
+
+
+---
+
+## 💡 Featured Projects
+
+> Các dự án tâm huyết của tôi
+
+| Name | Description | Tech | Link |
+|-------|------------|------|------|
+|-------|------------|------|------|
+
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+
+---
+
+## 📫 Contact Me
+
+- Email: **thanhyche68@gmail.com**
+- Facebook: **~~**
+- Discord:  **~~**
+
+<p align="center">
+  <a href="thanhyche68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge">
+  </a>
+  <a href="https://facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge">
+  </a>
+</p>
+
+
+---
+
+## 🐍 Contribution Snake (Flex)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🎉 Fun Facts
+
+- I write code faster with nightcore music
+- If something can be automated, I will automate it
+- I sleep, but my scripts continue to work
+
+---
+
+### ⭐ If you like my work, give a star. It motivates me to keep coding.
